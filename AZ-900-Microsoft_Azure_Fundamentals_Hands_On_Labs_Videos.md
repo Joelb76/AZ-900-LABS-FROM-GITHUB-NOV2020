@@ -13,7 +13,7 @@ Links to the Azure Fundamentals (AZ 900) labs on Youtube are provided below:
 
 03-Deploy Azure Container Instances.md - https://youtu.be/QjwjJ8iNsYU
 
-04-Create a virtual network.md - https://youtu.be/K7JyGp3Zc0Q
+04-Create a virtual network.md - https://youtu.be/K7JyGp3Zc0Q - Done
 
 05-Create Blob storage.md - https://youtu.be/ig_rnrgGGdY
 
